@@ -4,7 +4,7 @@ Segmentation of retina image to extract complex structure of blood vessel
 For detail see : https://medium.com/@gautamkumarjaiswal/retina-blood-vessel-segmentation-using-matlab-ce5cfd1fa974
 
 Usage:
-Run mainDemo.m
+Run RunMe.mlx
 
 Steps 1: Read retina image in matlab workspace from folder ‘retina_images\1.tif’.
 
